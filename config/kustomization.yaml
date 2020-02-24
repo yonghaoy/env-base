@@ -3,4 +3,4 @@ kind: Kustomization
 commonLabels:
   app: env-base
 resources:
-- secrets
+- secrets.yaml
